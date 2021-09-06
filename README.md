@@ -28,4 +28,5 @@ In order to run the website please follow the mentioned guidelines:
 ## Screenshots of the website:
 
 ![Category](/screenshots/categoriesSS.png)
+
 ![Content](/screenshots/contentSS.png)
